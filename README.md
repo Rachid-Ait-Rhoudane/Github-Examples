@@ -1,2 +1,2 @@
-# Github-Examples Updated
+# Github-Examples
 A repo containing GitHub for programmatic examples
